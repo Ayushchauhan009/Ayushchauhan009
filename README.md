@@ -40,7 +40,7 @@
 
 
 
-### GitHub README stats.
+#### GitHub README Stats
  <img align="left" alt="Ayush's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ayushchauhan009&show_icons=true&hide_border=true&theme=radical" />
 
 
