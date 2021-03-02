@@ -11,7 +11,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="AYUSH CHAUHAN | facebook" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/1312/1312139.svg?token=exp=1614680377~hmac=71a46e1b24d479c8f8379f3422291622" />][twitter]
+[<img align="left" alt="AYUSH CHAUHAN | facebook" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/1312/1312139.svg?token=exp=1614680377~hmac=71a46e1b24d479c8f8379f3422291622" />][facebook]
 [<img align="left" alt="AYUSH CHAUHAN | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="AYUSH CHAUHAN | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svhttps://www.flaticon.com/svg/vstatic/svg/1312/1312139.svg?token=exp=1614680377~hmac=71a46e1b24d479c8f8379f3422291622g" />][linkedin]
 [<img align="left" alt="AYUSH CHAUHAN | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
