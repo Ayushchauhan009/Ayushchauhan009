@@ -32,7 +32,7 @@
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://www.flaticon.com/svg/vstatic/svg/270/270798.svg?token=exp=1614681074~hmac=020b1e78219e19d700ab965edd0afccf" />
+<img align="left" alt="GitHub" width="26px" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111432.svg?token=exp=1616667514~hmac=5cf2eb53e91355c7d74f6909de883129" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
