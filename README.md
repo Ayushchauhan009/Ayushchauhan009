@@ -13,7 +13,7 @@
 
 [<img align="left" alt="AYUSH CHAUHAN | facebook" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/1312/1312139.svg?token=exp=1616666982~hmac=cfe9f2e3e638fe9e8732a8a5ad26b392" />][facebook]
 [<img align="left" alt="AYUSH CHAUHAN | Twitter" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/1312/1312142.svg?token=exp=1616667074~hmac=4e19cc0f733625cac237a718c2eed87c" />][twitter]
-[<img align="left" alt="AYUSH CHAUHAN | LinkedIn" width="22px" src=https://www.flaticon.com/svg/vstatic/svg/185/185964.svg?token=exp=1616667145~hmac=5b7dbda6719b1b3f0fb44d8e0c33dce0" />][linkedin]
+[<img align="left" alt="AYUSH CHAUHAN | LinkedIn" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/185/185964.svg?token=exp=1616667145~hmac=5b7dbda6719b1b3f0fb44d8e0c33dce0" />][linkedin]
 [<img align="left" alt="AYUSH CHAUHAN | Instagram" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111463.svg?token=exp=1614680719~hmac=a0c3e3776080eede29e72d6cab948ddc" />][instagram]
 
 <br />
