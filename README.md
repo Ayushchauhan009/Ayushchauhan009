@@ -20,7 +20,7 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Python" width="26px" src="https://www.flaticon.com/svg/vstatic/svg/919/919852.svg?token=exp=1616667361~hmac=96d0764f81f0980706d535e0c15e6dd8" />
+<img align="left" alt="Python" width="26px" src="https://image.flaticon.com/icons/png/512/919/919852.png?token=exp=1616667361~hmac=96d0764f81f0980706d535e0c15e6dd8" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
