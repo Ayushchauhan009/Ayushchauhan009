@@ -1,4 +1,4 @@
-### Hi there, I'm Ayush Chauhan - aka RAJPUT  👋
+### Hi there, I'm Ayush Chauhan👋
 
 ## I'm a Student and Programmer!
 
