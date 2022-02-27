@@ -11,10 +11,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="AYUSH CHAUHAN | facebook" width="22px" src="https://image.flaticon.com/icons/png/512/1312/1312139.png?token=exp=1616666982~hmac=cfe9f2e3e638fe9e8732a8a5ad26b392" />][facebook]
-[<img align="left" alt="AYUSH CHAUHAN | Twitter" width="22px" src="https://image.flaticon.com/icons/png/512/733/733579.png?token=exp=1616667074~hmac=4e19cc0f733625cac237a718c2eed87c" />][twitter]
-[<img align="left" alt="AYUSH CHAUHAN | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/145/145807.png?token=exp=1616667145~hmac=5b7dbda6719b1b3f0fb44d8e0c33dce0" />][linkedin]
-[<img align="left" alt="AYUSH CHAUHAN | Instagram" width="22px" src="https://image.flaticon.com/icons/png/512/2111/2111463.png?token=exp=1617902523~hmac=d01ab5a9e922fff76657d869746fe31b"/>][instagram]
+[<img align="left" alt="AYUSH CHAUHAN | facebook" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733547.png?token=exp=1616666982~hmac=cfe9f2e3e638fe9e8732a8a5ad26b392" />][facebook]
+[<img align="left" alt="AYUSH CHAUHAN | Twitter" width="22px" src="https://cdn-icons.flaticon.com/png/512/3256/premium/3256013.png?token=exp=1645981881~hmac=1855df005be355f73c53b7f0ad156eb6" />][twitter]
+[<img align="left" alt="AYUSH CHAUHAN | LinkedIn" width="22px" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1645981952~hmac=002ebf5d2b8332ae4df00aad8bae13c5" />][linkedin]
+[<img align="left" alt="AYUSH CHAUHAN | Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png?token=exp=1617902523~hmac=d01ab5a9e922fff76657d869746fe31b"/>][instagram]
 
 <br />
 
