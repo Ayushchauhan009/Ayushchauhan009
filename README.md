@@ -5,7 +5,7 @@
 - 🔭 I am currently building my Portfolio and stepping forward to learn DSA.
 - 🌱 I’m currently learning everything.
 - 👯 I’m looking to collaborate with other content creators.
-- 🥅 2021 Goals: Contribute more to Open Source projects and to apply in Dev jobs.
+- 🥅 2023 Goals: Contribute more to Open Source projects and to apply in Dev jobs.
 - ⚡ Fact: I love to sing and play guitar / piano.
 
 
