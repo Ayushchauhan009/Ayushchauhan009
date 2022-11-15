@@ -1,12 +1,12 @@
 ### Hi there, I'm Ayush Chauhan👋
 
-## I'm a Student and Programmer!
+## I'm a Programmer who loves Artificial Intelligence!
 
-- 🔭 I am currently building my Portfolio and stepping forward to learn DSA.
-- 🌱 I’m currently learning everything.
+- 🔭 I am currently building my Portfolio and being at a mid place in learning DSA.
+- 🌱 I’m currently learning ReactJS.
 - 👯 I’m looking to collaborate with other content creators.
-- 🥅 2023 Goals: Contribute more to Open Source projects and to apply in Dev jobs.
-- ⚡ Fact: I love to sing and play guitar / piano.
+- 🥅 2023 Goals: Contribute more to my own projects and to apply at my favorite job.
+- ⚡ Fact: I love to sing and create videos for my Youtube channel.
 
 
 ### Connect with me:
